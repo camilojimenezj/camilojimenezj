@@ -1,5 +1,5 @@
 # Hi 👋, I'm @camilojimenezj
-I'm a fullstack developer, Independent student passionate about learning something new every day
+I'm a fullstack developer. Independent student passionate about learning something new every day
 
 - 🌱 I’m currently learning **Redux**
 
